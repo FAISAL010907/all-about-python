@@ -1,4 +1,4 @@
-# my-python-learning!!!    <br>
+# python!!!    <br>
 just entering my engineering journey, and want to record or document my learning for myself <br>
 
 ## Repository Structure<br>
