@@ -1,41 +1,42 @@
-# my-python-learning
-just entering my engineering journey, and want to record or document my learning for myself 
+# my-python-learning<br>
+just entering my engineering journey, and want to record or document my learning for myself <br>
 
-## Repository Structure
-python-learning/
-│
-├── 01_basics/
-│   ├── variables_and_datatypes.py
-│   ├── control_flow.py
-│   ├── functions.py
-│   └── README.md
-│
-├── 02_data_structures/
-│   ├── lists_tuples.py
-│   ├── dicts_sets.py
-│   ├── comprehensions.py
-│   └── README.md
-│
-├── 03_oop/
-│   ├── classes_objects.py
-│   ├── inheritance.py
-│   ├── encapsulation.py
-│   └── README.md
-│
-├── 04_file_handling/
-│   ├── read_write.py
-│   ├── csv_json.py
-│   └── README.md
-│
-├── 05_libraries/
-│   ├── numpy_basics.py
-│   ├── pandas_basics.py
-│   ├── matplotlib_plots.py
-│   └── README.md
-│
-├── 06_projects/
-│   ├── calculator/
-│   ├── grade_analyzer/
-│   ├── data_visualizer/
-│   └── README.md
-└── resources/ cheatsheets/
+## Repository Structure<br>
+python-learning/<br>
+│ <br>
+├── 01_basics/ <br>
+│   ├── variables_and_datatypes.py <br>
+│   ├── control_flow.py <br>
+│   ├── functions.py <br>
+│   └── README.md <br>
+│ <br>
+├── 02_data_structures/ <br>
+│   ├── lists_tuples.py <br>
+│   ├── dicts_sets.py <br>
+│   ├── comprehensions.py <br>
+│   └── README.md <br>
+│ <br>
+├── 03_oop/ <br>
+│   ├── classes_objects.py <br>
+│   ├── inheritance.py <br>
+│   ├── encapsulation.py <br>
+│   └── README.md <br>
+│ <br>
+├── 04_file_handling/ <br>
+│   ├── read_write.py <br>
+│   ├── csv_json.py <br>
+│   └── README.md <br>
+│ <br>
+├── 05_libraries/ <br>
+│   ├── numpy_basics.py <br>
+│   ├── pandas_basics.py <br>
+│   ├── matplotlib_plots.py <br>
+│   └── README.md <br>
+│ <br>
+├── 06_projects/ <br>
+│   ├── calculator/ <br>
+│   ├── grade_analyzer/ <br>
+│   ├── data_visualizer/ <br>
+│   └── README.md <br>
+└── resources/ <br>
+      cheatsheets/
