@@ -1,9 +1,3 @@
-git config --global user.name "FAISAL010907"
-
-
-
-
-
 
 #to write something in python we use print(xyz)
 print("Hello, World!")
@@ -24,3 +18,8 @@ print("""Starting my Python learning journey today,
       solve problems, and grow. 
       I am excited to see how far these new coding skills will 
       take me in the future!""")
+#comments
+#this is single line comment
+"""this is multi line commment 
+you can write as many lines as you want and this comment will not be include or execute in python code 
+but you can see this comment in your code like notes"""
