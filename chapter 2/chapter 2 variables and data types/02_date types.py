@@ -9,3 +9,5 @@ print(type(b))
 print(type(c))  
 print(type(d))  
 print(type(e))  
+# this will tell us about the data type of the variable 
+# and also tell us about the class of the variable like <class"int">
