@@ -1,3 +1,5 @@
+#check weather a is greater thab b or not
+
 a = int(input("enter the 1st number:"))
 b = int(input("enter 2nd number:"))
 
