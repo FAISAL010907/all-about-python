@@ -16,5 +16,6 @@ print(a)
 #if we use ' in '' it will give error so we use \'xyx\' 
 #but if we use ' in "'xyz'" it will be fine 
 
-a = "faisal is a good \/boy/\" 
+# "\\" -- like previous one it will add \ both side of the word
+a = "faisal is a good \\boy\\" 
 print(a)
