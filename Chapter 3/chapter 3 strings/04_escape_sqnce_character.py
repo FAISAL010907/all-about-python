@@ -19,3 +19,7 @@ print(a)
 # "\\" -- like previous one it will add \ both side of the word
 a = "faisal is a good \\boy\\" 
 print(a)
+
+# "\f" -- this will break the line and leave a line simultaneously
+a = "faisal is a good \fboy"
+print(a)
