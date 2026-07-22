@@ -21,3 +21,5 @@ print(name[2:]) #here empty means length or in leymen lang. last index
                 # so this mean from 2 to last   
                 #means [2:] is same as[2:5]
                 
+name = "FAISAL"                
+print(name[0:1:5])
