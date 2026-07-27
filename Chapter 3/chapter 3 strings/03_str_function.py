@@ -5,6 +5,7 @@
 #RETURN THE LENGTH OF THE STRING
 name = "FAISAL"
 print(len(name))
+###---------------------------------------------------------------###
 
 # 2)) STRING.ENDSWITH("XYZ")
 
@@ -13,22 +14,27 @@ name = "faisal"
 print(name.endswith("sal"))
 identity = "faisal"
 print(identity.endswith("kmkl"))
+###---------------------------------------------------------------###
 
 #STRING.COUNT("A")
 
 #RETURNS THE NUMBER OF TIME THAT ALPHABET REPEATED 
 name = "faisal"
 print(name.count("a"))
+###---------------------------------------------------------------###
 
-
+# STRING.CAPATALIZE()
+#this will capatilize the first element
 name = "faisal"
 print(name.capitalize())
+###---------------------------------------------------------------###
 
 # STRING.FIND("WORD")
 
 #RETURNS THE INDEX OF FIRST OCCURANCE OF THE WOR WE ARE FINDING
 a = "i am learning python"
 print(a.find("python"))
+###---------------------------------------------------------------###
 
 #STRING.REPLACE("OLD WORD","NEW WORD")
 

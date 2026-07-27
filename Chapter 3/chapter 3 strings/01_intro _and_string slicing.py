@@ -1,11 +1,13 @@
 # 3 ways to write
 #single string
 name = 'faisal'
+
 #double string
 name = "faisal"
+
 # triple string
 name = '''faisal'''
-
+###---------------------------------------------------------------###
 #string slicing
 name = "faisal"
 
