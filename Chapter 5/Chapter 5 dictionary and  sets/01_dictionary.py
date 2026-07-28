@@ -1,3 +1,5 @@
+d = {} # this is empty disctionary
+
 marks = {"faisal": 100,
      "kamal": 98,
      "kalesh": 81,}
