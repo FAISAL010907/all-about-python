@@ -4,7 +4,7 @@
 
 # SOLUTION 1 :-
 s = {}
-print(type(s))
+print(s,type(s))
 
 # output = <class 'dict'>
 
