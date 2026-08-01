@@ -12,3 +12,6 @@
 
 ''' second thing is, even if we could do it we cant change the value by indexing '''
 # which mean set rely on hash value to store and find elements . if an element could change after being added , the sets internal orginazation would become incorrect
+
+s = {8, 7, 12, "Faisal", [1,2]}
+print(s) # TypeError: unhashable type: 'list'
