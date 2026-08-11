@@ -45,5 +45,7 @@ elif(50<aggrigate<60):
     print("D")
 elif(0<aggrigate<50):
     print("F")
-else:
+elif((100<a<0)or(100<b<0)or(100<c<0)or(100<d<0)or(100<e<0)):
     print("invalid result please check your inputs")
+else:
+    print("something is wrong chech your inputs")

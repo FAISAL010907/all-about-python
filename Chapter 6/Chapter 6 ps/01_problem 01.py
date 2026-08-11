@@ -12,7 +12,7 @@ if(a>b and a>c and a>d):
     print("the greaters number is a :", a)
 
 elif(b>a and b>c and b>d):
-    print("the greaters number is b :", b)
+    print(b, "is greater")
 
 elif(c>b and c>a and c>d):
     print("the greaters number is c :", c)
