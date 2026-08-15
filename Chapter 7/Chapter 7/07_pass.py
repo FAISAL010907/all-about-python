@@ -8,13 +8,8 @@
 for i in range(20):
     if (i == 10):
         pass # this will do nothing and continue the loop
-    print(i,end = " ")
-
-'''or
-for i in range (20);
-        pass'''
-
-i = 0 
+    
+i = 20
 while (i<20):
     print(i,end = " ")
     i += 1 #you can write i = i + 1 as well basically both are same, the above one is short form
