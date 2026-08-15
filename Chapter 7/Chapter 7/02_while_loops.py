@@ -15,8 +15,14 @@ print('====================================')
 # QUESTION 1)
 
 # write a program to print 1 to 100 using loop 
+# in for loop
 for i in range (1,100):
     print(i+1)
+# in while loop
+i = 1
+while i <=100:
+    print(i)
+    i += 1()
 
 print('====================================')
 
@@ -27,4 +33,3 @@ i = 0
 while i < len(list):
     print(list[i])
     i += 1
-    
