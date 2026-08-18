@@ -18,9 +18,12 @@ def avg():
 
 avg()   #function call
 avg()
-avg()
-avg()
-avg()
+
 
 # like here we can use multiple funtion in one and caan call them any time and any number of time we can call it
  
+# programm for greeting a user with "good day"
+def greeting():
+    name=(input("enter your name : "))
+    print(name,"good morning")
+greeting()
