@@ -25,5 +25,5 @@ avg()
 # programm for greeting a user with "good day"
 def greeting():
     name=(input("enter your name : "))
-    print(name,"good morning")
+    print("good day",name )
 greeting()
