@@ -5,5 +5,5 @@
 '''by usign (end = "") '''
 
 print("Hello")          # default: end="\n"
-print("Hello", end="")  # no new line
-print("Hello", end=" ") # space instead of new line
+print("Hello", end=" ")  # no new line
+print("Hello", end=" maka ladle meow ghop ghop ghop") # space instead of new line
