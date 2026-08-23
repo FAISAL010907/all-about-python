@@ -15,3 +15,11 @@ def factorial(n):     # in place of factorial or we casually say fxn we can give
 n = int(input('enter your number : '))
 print("the factorial value of your input is",factorial(n))    # in place of factorial or we casually say fxn we can give any name to the fxn
 
+
+'''def count(n):
+    if n == 0:       # Base case
+        return     #this will stopr function to begin infinite loop and make funtion stop when the value met 0
+    print(n)
+    count(n - 1)     # Recursive case
+
+count(5)'''
