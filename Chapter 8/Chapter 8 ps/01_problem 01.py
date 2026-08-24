@@ -19,3 +19,5 @@ def greater():
         print("all the inputs are same")
 
 greater()
+
+#  if values are given then just do this in fxn, def greater(a,b,c) and then in last mention the given value like a =1 b = 2 c=3
