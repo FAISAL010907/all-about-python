@@ -20,5 +20,8 @@ def sum(n):
         return 1
     else:
         return sum(n-1)+n
-n = int(input("Enter a number: "))    
-print(f"sum of the first {n} number is {sum(n)}")
+
+n = int(input("Enter a number: "))
+print("The sum of first", n, "natural numbers is:", sum(n))
+
+'''print(sum(4))  -- thia will also work same , but more price code'''
